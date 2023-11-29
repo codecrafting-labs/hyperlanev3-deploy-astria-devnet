@@ -1,0 +1,10 @@
+cclabs01:
+  type: messageIdMultisigIsm
+  threshold: 1
+  validators:
+    - "0x1C2f0361F479f41867783c39c0F955FbaCd24a2e"
+cclabs02:
+  type: messageIdMultisigIsm
+  threshold: 1
+  validators:
+    - "0x1C2f0361F479f41867783c39c0F955FbaCd24a2e"

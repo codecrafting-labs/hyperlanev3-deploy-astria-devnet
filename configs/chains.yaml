@@ -1,0 +1,31 @@
+cclabs01:
+  name: cclabs01
+  displayName: CCLabs Rollup 01
+  displayNameShort: CCLabs 01
+  chainId: 11801
+  domainId: 11801
+  protocol: ethereum
+  isTestnet: true
+  rpcUrls:
+    - http: https://executor.cclabs01.k8s.cclabs.tech
+  nativeToken:
+    name: Code1
+    symbol: CDE1
+    decimals: 18
+cclabs02:
+  name: cclabs02
+  displayName: CCLabs Rollup 02
+  displayNameShort: CCLabs 02
+  chainId: 11802
+  domainId: 11802
+  protocol: ethereum
+  isTestnet: true
+  rpcUrls:
+    - http: https://executor.cclabs02.k8s.cclabs.tech
+  nativeToken:
+    name: Code2
+    symbol: CDE2
+    decimals: 18
+sepolia:
+  rpcUrls:
+    - http: https://nd-950-422-262.p2pify.com/3ead640b1f1e7b471894eb32c3e8d95c

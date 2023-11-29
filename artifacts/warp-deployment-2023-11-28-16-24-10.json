@@ -1,0 +1,14 @@
+{
+  "sepolia": {
+    "router": "0x780A9E0554E9DE503EFDB8167a82E1012e740eFd",
+    "tokenType": "native"
+  },
+  "cclabs01": {
+    "router": "0xc2bA912e03778621F8840D3D3dDcc7d265f94F69",
+    "tokenType": "synthetic"
+  },
+  "cclabs02": {
+    "router": "0xDeacA0e2017F2e363e79D1E31cd34E072748F457",
+    "tokenType": "synthetic"
+  }
+}

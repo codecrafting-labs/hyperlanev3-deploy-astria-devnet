@@ -1,0 +1,14 @@
+{
+  "cclabs01": {
+    "router": "0xda7765ddE90e1C6b014b8dF5c637c87a342a029D",
+    "tokenType": "native"
+  },
+  "sepolia": {
+    "router": "0x160b3fcd59d40FC6C3F27e3eEedd9b6ae57c5fB5",
+    "tokenType": "synthetic"
+  },
+  "cclabs02": {
+    "router": "0x259B9933471CA03345902C497bC93D898997B3A9",
+    "tokenType": "synthetic"
+  }
+}

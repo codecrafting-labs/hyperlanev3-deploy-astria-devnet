@@ -1,0 +1,8 @@
+{
+  "chainId": 11801,
+  "name": "Code1",
+  "symbol": "CDE1",
+  "decimals": 18,
+  "type": "native",
+  "hypNativeAddress": "0xda7765ddE90e1C6b014b8dF5c637c87a342a029D"
+}

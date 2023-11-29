@@ -1,0 +1,74 @@
+{
+  "cclabs01": {
+    "merkleRootMultisigIsmFactory": "0xD79205DeaF30ee873058665C3A131cc51bc9C299",
+    "messageIdMultisigIsmFactory": "0x28d368CC10F7eE99a79D59d34988Ec80198592c0",
+    "aggregationIsmFactory": "0xd8bc9FcF6f28349Fc608885744a7CEcC26677ab0",
+    "aggregationHookFactory": "0xe7C48E39FC14361C59C575360d7eb33f05a23429",
+    "routingIsmFactory": "0xE9c370Eb80980aF3B5fC4cCB5f18cFB2619a6f32",
+    "multisigIsm": "0x35Ac3F7A7672131c17d9a942bA549317276f8b1D",
+    "sepolia": {
+      "messageIdMultisigIsm": "0xA494abdC759E832cc468DeF24c6986e6Eba7E269"
+    },
+    "cclabs02": {
+      "messageIdMultisigIsm": "0x2bcBd798b442A945b89497222a862de902F51F5f"
+    },
+    "domainRoutingIsm": "0x35Ac3F7A7672131c17d9a942bA549317276f8b1D",
+    "proxyAdmin": "0x701B4Df1a5915D2bAB2fF89CCe3d6504Bd4774a2",
+    "storageGasOracle": "0x6c6f91a5C50454898f9F143138Dd22897D1A6B28",
+    "interchainGasPaymaster": "0x65E682488BA4aD365f084d63dF0775e61831FcCd",
+    "merkleTreeHook": "0xdF3d02D0bacD31b73D1EF5d598E2CC5db580eAC6",
+    "aggregationHook": "0x182f07034f24e5EeB28561b6B17D8b6d01448883",
+    "protocolFee": "0x6153c40abc4650ae7A8430Adf9489E04A56a2C3C",
+    "mailbox": "0xc6c3dC01B9cB78aB2B7d9846e0491AEC7DbCE7C1",
+    "validatorAnnounce": "0xBd8D71e26ecA69F6C72cd605E99B50066FD1759B",
+    "testRecipient": "0xEF576440010DD45F47D5F322e15052144e5e886C"
+  },
+  "cclabs02": {
+    "merkleRootMultisigIsmFactory": "0xD79205DeaF30ee873058665C3A131cc51bc9C299",
+    "messageIdMultisigIsmFactory": "0x28d368CC10F7eE99a79D59d34988Ec80198592c0",
+    "aggregationIsmFactory": "0xd8bc9FcF6f28349Fc608885744a7CEcC26677ab0",
+    "aggregationHookFactory": "0xe7C48E39FC14361C59C575360d7eb33f05a23429",
+    "routingIsmFactory": "0xE9c370Eb80980aF3B5fC4cCB5f18cFB2619a6f32",
+    "multisigIsm": "0x35Ac3F7A7672131c17d9a942bA549317276f8b1D",
+    "sepolia": {
+      "messageIdMultisigIsm": "0xA494abdC759E832cc468DeF24c6986e6Eba7E269"
+    },
+    "cclabs01": {
+      "messageIdMultisigIsm": "0x2bcBd798b442A945b89497222a862de902F51F5f"
+    },
+    "domainRoutingIsm": "0x35Ac3F7A7672131c17d9a942bA549317276f8b1D",
+    "proxyAdmin": "0x701B4Df1a5915D2bAB2fF89CCe3d6504Bd4774a2",
+    "storageGasOracle": "0x6c6f91a5C50454898f9F143138Dd22897D1A6B28",
+    "interchainGasPaymaster": "0x65E682488BA4aD365f084d63dF0775e61831FcCd",
+    "merkleTreeHook": "0xdF3d02D0bacD31b73D1EF5d598E2CC5db580eAC6",
+    "aggregationHook": "0x182f07034f24e5EeB28561b6B17D8b6d01448883",
+    "protocolFee": "0x6153c40abc4650ae7A8430Adf9489E04A56a2C3C",
+    "mailbox": "0xc6c3dC01B9cB78aB2B7d9846e0491AEC7DbCE7C1",
+    "validatorAnnounce": "0xBd8D71e26ecA69F6C72cd605E99B50066FD1759B",
+    "testRecipient": "0xEF576440010DD45F47D5F322e15052144e5e886C"
+  },
+  "sepolia": {
+    "merkleRootMultisigIsmFactory": "0x0a71AcC99967829eE305a285750017C4916Ca269",
+    "messageIdMultisigIsmFactory": "0xFEb9585b2f948c1eD74034205a7439261a9d27DD",
+    "aggregationIsmFactory": "0xC83e12EF2627ACE445C298e6eC418684918a6002",
+    "aggregationHookFactory": "0x160C28C92cA453570aD7C031972b58d5Dd128F72",
+    "routingIsmFactory": "0x3603458990BfEb30f99E61B58427d196814D8ce1",
+    "multisigIsm": "0x0Ea7656cD13d50Aab41BB2Bd08B3B85d9F2e05bA",
+    "cclabs01": {
+      "messageIdMultisigIsm": "0x9c44EE4516eE874A9d7B0792acC116860DaDa651"
+    },
+    "cclabs02": {
+      "messageIdMultisigIsm": "0x9c44EE4516eE874A9d7B0792acC116860DaDa651"
+    },
+    "domainRoutingIsm": "0x0Ea7656cD13d50Aab41BB2Bd08B3B85d9F2e05bA",
+    "proxyAdmin": "0x97Bbc6bBaFa5Ce3b2FA966c121Af63bD09e940f8",
+    "storageGasOracle": "0x71775B071F77F1ce52Ece810ce084451a3045FFe",
+    "interchainGasPaymaster": "0x6f2756380FD49228ae25Aa7F2817993cB74Ecc56",
+    "merkleTreeHook": "0x4917a9746A7B6E0A57159cCb7F5a6744247f2d0d",
+    "aggregationHook": "0xDdB7Cc04B58847373cE7d793936a1f62481459df",
+    "protocolFee": "0x13AC3349Cb159fE86A22cf42DdA803D9f7309DB5",
+    "mailbox": "0xfFAEF09B3cd11D9b20d1a19bECca54EEC2884766",
+    "validatorAnnounce": "0xE6105C59480a1B7DD3E4f28153aFdbE12F4CfCD9",
+    "testRecipient": "0x68D13Ed1d98BB5D839ab11ACF30FdbBCaf102A10"
+  }
+}
